@@ -1,0 +1,126 @@
+10
+
+dir
+0
+svn://zhouzhongmao@115.28.128.40/svn/iOS/MIkeCRM/Pods/AFNetworking/AFNetworking
+svn://zhouzhongmao@115.28.128.40/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9bd8c4b0-274d-44fc-86c2-f6dfeef2771c
+
+AFHTTPSessionManager.m
+file
+
+
+
+add
+
+AFURLResponseSerialization.m
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AFNetworkReachabilityManager.h
+file
+
+
+
+add
+
+AFURLSessionManager.m
+file
+
+
+
+add
+
+AFNetworking.h
+file
+
+
+
+add
+
+AFSecurityPolicy.h
+file
+
+
+
+add
+
+AFURLRequestSerialization.h
+file
+
+
+
+add
+
+AFNetworkReachabilityManager.m
+file
+
+
+
+add
+
+AFSecurityPolicy.m
+file
+
+
+
+add
+
+AFHTTPSessionManager.h
+file
+
+
+
+add
+
+AFURLRequestSerialization.m
+file
+
+
+
+add
+
+AFURLResponseSerialization.h
+file
+
+
+
+add
+
+AFURLSessionManager.h
+file
+
+
+
+add
+
